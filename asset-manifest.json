@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kimVictor888/drag-n-drop-todo/static/css/main.d3c3639d.chunk.css",
+    "main.js": "/kimVictor888/drag-n-drop-todo/static/js/main.c69b1678.chunk.js",
+    "main.js.map": "/kimVictor888/drag-n-drop-todo/static/js/main.c69b1678.chunk.js.map",
+    "runtime-main.js": "/kimVictor888/drag-n-drop-todo/static/js/runtime-main.0aff6ccc.js",
+    "runtime-main.js.map": "/kimVictor888/drag-n-drop-todo/static/js/runtime-main.0aff6ccc.js.map",
+    "static/js/2.6a255052.chunk.js": "/kimVictor888/drag-n-drop-todo/static/js/2.6a255052.chunk.js",
+    "static/js/2.6a255052.chunk.js.map": "/kimVictor888/drag-n-drop-todo/static/js/2.6a255052.chunk.js.map",
+    "index.html": "/kimVictor888/drag-n-drop-todo/index.html",
+    "static/css/main.d3c3639d.chunk.css.map": "/kimVictor888/drag-n-drop-todo/static/css/main.d3c3639d.chunk.css.map",
+    "static/js/2.6a255052.chunk.js.LICENSE.txt": "/kimVictor888/drag-n-drop-todo/static/js/2.6a255052.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aff6ccc.js",
+    "static/js/2.6a255052.chunk.js",
+    "static/css/main.d3c3639d.chunk.css",
+    "static/js/main.c69b1678.chunk.js"
+  ]
+}
